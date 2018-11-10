@@ -7,3 +7,14 @@
     text-align: center;
     color: teal;
 }
+.error-container{
+    position: relative;
+    display: inline;
+}
+.error-message{ 
+    position: absolute;
+    top: 100%;
+    left: 0;
+    line-height: 2em;
+    color: rgb(223, 96, 96)
+}
